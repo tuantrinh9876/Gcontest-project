@@ -13,7 +13,7 @@ This project aims to analyze the operational and financial performance of a reta
 ## Data Overview
 The dataset includes daily performance data for individual stores, with the following fields:
 
-![Data Overview](chart\overview.png)
+![Data Overview](chart/overview.png)
 
 - The data shows a right-skewed distribution.
 - The largest values of Net Revenue, Cost of Goods Sold, Selling Expenses, and NET Profit significantly exceed the mean and the 75th percentile -> Outliers.
@@ -29,7 +29,7 @@ The dataset includes daily performance data for individual stores, with the foll
 
 ## Executive Summary
 ### Key Findings
-![Overall Growth](chart\overall_growth.png)
+![Overall Growth](chart/overall_growth.png)
 
 1. **Overall Growth:** Gross revenue and total costs increased by 52% year-over-year. However, cost increases (e.g., 91% rise in marketing expenses in the Southern region) outpaced revenue growth in some areas, pressuring profitability.
 2. **Regional Insights:**
@@ -37,7 +37,7 @@ The dataset includes daily performance data for individual stores, with the foll
    - **Central Region:** Severe revenue decline (-29.3%) with rising costs, leading to minimal profitability.
    - **Southern Region:** Significant revenue growth (+22.5%) but negative profit (-105%) due to high marketing and selling expenses.
 
-![Product Category Performance](chart\category_growth.png)
+![Product Category Performance](chart/category_growth.png)
 
 3. **Product Category Performance:**
    - Men's fashion drives revenue but suffers from high costs.
@@ -47,7 +47,7 @@ The dataset includes daily performance data for individual stores, with the foll
 ---
 
 ## Detailed Insights
-![Detailed Insights](chart\Region.png)
+![Detailed Insights](chart/Region.png)
 ### Northern Region
 - **Revenue:** Declined slightly (-0.88%), reflecting good customer retention.
 - **Profitability:** Net profit dropped by 13.5% due to operational inefficiencies.
